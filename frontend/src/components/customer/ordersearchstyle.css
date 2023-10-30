@@ -1,0 +1,18 @@
+.control{
+    padding-top: 3%;
+}
+.title{
+    padding-top: 2%;
+}
+.input{
+    width: 50%;
+        height: 50px;
+        margin: 20px 0px;
+        font-size: 17px;
+        padding-left: 20px;
+}
+
+.location-button{
+    color: blue;
+}
+
